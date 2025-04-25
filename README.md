@@ -5,6 +5,7 @@ This project focused on implementing the robotic operating system ROS2 to contro
 
 
 Created by: Allen Zaina, Ricardo Tapia Vargas, Elias Madi
+
 Instructor: Dr. Utayba Mohammad
 
 
